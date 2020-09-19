@@ -9,6 +9,7 @@
   "scripts": {
     "build": "spago build",
     "start": "spago run",
-    "test": "spago test"
+    "test": "spago test",
+    "watch": "spago run --watch"
   }
 }
