@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "version": "0.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "purescript": "^0.13.8",
+    "spago": "^0.16.0"
+  },
+  "scripts": {
+    "build": "spago build",
+    "start": "spago run",
+    "test": "spago test"
+  }
+}
